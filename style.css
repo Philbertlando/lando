@@ -71,7 +71,7 @@ footer {
 .slide {
     width: 200px;
     display: inline-block;
-    animation: slideAnim 30s linear infinite;
+    animation: slideAnim 10s linear infinite;
 
 }
 
@@ -80,3 +80,4 @@ footer {
     100% { transform: translateX(-100%); }
 
 }
+
